@@ -1,12 +1,37 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# NewsApp
 
-Currently, two official plugins are available:
+A simple and responsive web application that fetches the latest news from **NewsAPI** and displays it in an organized way.  
+Built with **React**, it allows users to explore news by categories, search for topics, and stay updated with current events.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- 📢 Get real-time news from multiple categories (Business, Technology, Sports, etc.)   
+- 📱 Responsive design for mobile and desktop  
+- ⚡ Fast and smooth experience with React  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, JavaScript, HTML, CSS  
+- **API:** [NewsAPI](https://newsapi.org/)  
+- **Styling:** Bootstrap   
+
+---
+
+
+## ⚙️ Installation
+```bash
+# Clone the repository
+git clone https://github.com/your-username/newsapp.git
+
+# Navigate to the project folder
+cd newsapp
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
